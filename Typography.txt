@@ -1,0 +1,982 @@
+/* Typography */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 80px;
+gap: 40px;
+
+position: relative;
+width: 803.29px;
+height: 2888px;
+left: 1162px;
+top: 120px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 2px;
+
+
+/* Body 1 - Light */
+
+width: 522px;
+height: 112px;
+
+/* Display/Big */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 112px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 468px;
+height: 80px;
+
+/* Display/Small */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 80px;
+/* identical to box height, or 111% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector 1 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* H1 - Regular */
+
+width: 348px;
+height: 72px;
+
+/* Heading/H1 */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 72px;
+/* identical to box height, or 112% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* H1 - Regular */
+
+width: 229px;
+height: 44px;
+
+/* Heading/H2 */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 44px;
+/* identical to box height, or 110% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* H1 - Regular */
+
+width: 182px;
+height: 36px;
+
+/* Heading/H3 */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 36px;
+/* identical to box height, or 112% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* H1 - Regular */
+
+width: 138px;
+height: 28px;
+
+/* Heading/H4 */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* H1 - Regular */
+
+width: 115px;
+height: 24px;
+
+/* Heading/H5 */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* H1 - Regular */
+
+width: 92px;
+height: 20px;
+
+/* Heading/H6 */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* Vector 2 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 109px;
+height: 20px;
+
+/* Body/Small/Light */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 170px;
+height: 20px;
+
+/* Body/Small/Light underline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 138px;
+height: 20px;
+
+/* Body/Small/Light italic */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 198px;
+height: 20px;
+
+/* Body/Small/Light italic underline */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+flex-grow: 0;
+
+
+/* Vector 3 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 14;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 126px;
+height: 20px;
+
+/* Body/Small/Regular */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 15;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 188px;
+height: 20px;
+
+/* Body/Small/Regular underline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 16;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 155px;
+height: 20px;
+
+/* Body/Small/Regular italic */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 17;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 216px;
+height: 20px;
+
+/* Body/Small/Regular italic underline */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 18;
+flex-grow: 0;
+
+
+/* Vector 3 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 19;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 163px;
+height: 24px;
+
+/* Body/Medium/Regular */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 20;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 233px;
+height: 24px;
+
+/* Body/Medium/Regular underline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 21;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 195px;
+height: 24px;
+
+/* Body/Medium/Regular italic */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 22;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 264px;
+height: 24px;
+
+/* Body/Medium/Regular italic underline */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 23;
+flex-grow: 0;
+
+
+/* Vector 3 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 24;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 140px;
+height: 24px;
+
+/* Body/Medium/Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 25;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 211px;
+height: 24px;
+
+/* Body/Medium/Bold underline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 26;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 174px;
+height: 24px;
+
+/* Body/Medium/Bold italic */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 27;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 243px;
+height: 24px;
+
+/* Body/Medium/Bold italic underline */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 28;
+flex-grow: 0;
+
+
+/* Vector 4 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 29;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 162px;
+height: 28px;
+
+/* Body/Large/Regular */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 30;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 242px;
+height: 28px;
+
+/* Body/Large/Regular underline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 31;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 200px;
+height: 28px;
+
+/* Body/Large/Regular italic */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 32;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 277px;
+height: 28px;
+
+/* Body/Large/Regular italic underline */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 33;
+flex-grow: 0;
+
+
+/* Vector 9 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 34;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 137px;
+height: 28px;
+
+/* Body/Large/Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 35;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 218px;
+height: 28px;
+
+/* Body/Large/Bold underline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 36;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 176px;
+height: 28px;
+
+/* Body/Large/Bold italic */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 37;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 254px;
+height: 28px;
+
+/* Body/Large/Bold italic underline */
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 38;
+flex-grow: 0;
+
+
+/* Vector 10 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 39;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 188px;
+height: 32px;
+
+/* Support/Overline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+display: flex;
+align-items: flex-end;
+text-transform: uppercase;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 40;
+flex-grow: 0;
+
+
+/* Vector 6 */
+
+width: 643.29px;
+height: 0px;
+
+background: #DA291C;
+border: 1px solid #46464A;
+
+/* Inside auto layout */
+flex: none;
+order: 41;
+flex-grow: 0;
+
+
+/* Body 1 - Light */
+
+width: 67px;
+height: 24px;
+
+/* Button/Bold */
+font-family: 'Interstate';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+text-transform: uppercase;
+
+color: #DA291C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 42;
+flex-grow: 0;
