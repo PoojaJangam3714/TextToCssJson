@@ -58,7 +58,7 @@ namespace CssToJson
         {
             Console.WriteLine("Started");
 
-            string textFile = @"C:\Users\pooja.bhaskar.jangam\source\repos\CssToJson\Typography.txt";
+            string textFile = @"../../../Typography.txt";
             //string textFile1 = @"~\Typography.txt";
 
             if (File.Exists(textFile))
@@ -101,11 +101,11 @@ namespace CssToJson
                 var lineHeightText = GetLine(LineHeightDict);
                 var weightText = GetLine(WeightDict);
 
-                if (File.Exists(@"C:\Users\pooja.bhaskar.jangam\source\repos\CssToJson\Outcome.txt"))
+                if (File.Exists(@"../../../Outcome.txt"))
                 {
-                    File.Delete(@"C:\Users\pooja.bhaskar.jangam\source\repos\CssToJson\Outcome.txt");
+                    File.Delete(@"../../../Outcome.txt");
                 }
-                File.WriteAllLines(@"C:\Users\pooja.bhaskar.jangam\source\repos\CssToJson\Outcome.txt", new string[] { fontsizeText, lineHeightText, weightText });
+                File.WriteAllLines(@"../../../Outcome.txt", new string[] { fontsizeText, lineHeightText, weightText });
               
             }
 
